@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EC2YP</string>
+    <string-array name="categorias">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+</resources>
